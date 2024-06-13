@@ -1,6 +1,6 @@
 ## Olá, eu sou Danillo Guimarães, tenho 29 anos e moro no Litoral de São Paulo. 👋
 Este perfil é dedicado ao desenvolvimento back-end, especialmente a linguagem Python. <br/>
-Também tenho outro perfil mais voltado ao front-end. <br/>
+Também tenho outro perfil mais voltado ao front-end. <a href="https://github.com/Danilloneo">Danilloneo</a><br/>
 Sou da área da tecnologia desde os 11 anos de idade, a aproximadamente 2 anos <br/> 
 decidi focar totalmente meus investimentos em programação.
 
